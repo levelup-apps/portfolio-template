@@ -1,26 +1,26 @@
 # Projects
 
-## Ligo
-[https://devpost.com/software/ligo](https://devpost.com/software/ligo)
+## Project 1
+[https://github.com](https://github.com)
 
-Website for calculating carbon footprint of events
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-- Won 'Best Water, Food, Health, or Climate Hack' in BoilerMake 2023
-- Built using SvelteKit, Tailwind CSS, and MongoDB
+- Praesent sed consequat odio.
+- Morbi mauris elit, maximus sit amet rhoncus id, ultrices non diam.
 
-## Assignment Aggregator
-[github.com/CS222SP22/course-project](https://github.com/CS222SP22/course-project)
+## Project 2
+[https://github.com](https://github.com)
 
-Python script that webscrapes student's assignments
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-- Designed output CSV format compatible with Notion and Todoist
-- Standardized input data from various learning management systems
+- Praesent sed consequat odio.
+- Morbi mauris elit, maximus sit amet rhoncus id, ultrices non diam.
+  
+## Project 3
+[https://github.com](https://github.com)
 
-## Sentiment Analyzer
-[https://github.com/Heasummn/cs128-honors](https://github.com/Heasummn/cs128-honors)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Analyze changes in positivity/negativity of text or Twitter page
-
-- Built in Rust as project for Intro to CS II Honors
-- Implemented MapReduce multithreading algorithm
+- Praesent sed consequat odio.
+- Morbi mauris elit, maximus sit amet rhoncus id, ultrices non diam.
 
