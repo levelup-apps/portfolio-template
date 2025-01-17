@@ -8,6 +8,7 @@ import {
   SheetContent,
   SheetTrigger,
 } from "@/components/ui/sheet"
+import resumeData from '../content/resume-data.json';
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = React.useState(false)
@@ -26,7 +27,7 @@ export function Navigation() {
     }`}>
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
-          <a href="#" className="text-xl font-bold text-gray-900">Liza George</a>
+          <a href="#" className="text-xl font-bold text-gray-900">{resumeData.basics.name}</a>
           
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">

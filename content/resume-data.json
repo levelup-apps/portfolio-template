@@ -8,16 +8,20 @@
       "country": "United States"
     },
     "contact": {
-      "email": null,
+      "email": "jane.doe@gmail.com",
       "linkedInUrl": "https://www.linkedin.com/",
       "socialProfiles": [
         {
           "network": "LinkedIn",
           "url": "https://www.linkedin.com/"
+        },
+        {
+          "network": "GitHub",
+          "url": "https://www.github.com/"
         }
       ]
     },
-    "summary": null
+    "summary": "Software engineer passionate about agentic AI and constantly learning!"
   },
   "education": [
     {
