@@ -15,7 +15,7 @@ export function Hero() {
                         Hi, I'm {resumeData.basics.name}
                     </h1>
                     <p className="text-xl text-gray-600 mb-8">
-                        {resumeData.basics.summary}
+                        {resumeData.basics.headline}
                     </p>
                     <div className="flex gap-4 justify-center md:justify-start">
                         {(() => {
