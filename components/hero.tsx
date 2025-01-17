@@ -69,21 +69,22 @@ export function Hero() {
                             );
                         })()}
 
-                        
+
                     </div>
                 </div>
 
                 <div className="relative flex-1">
-                    <div className="relative w-64 h-64 md:w-96 md:h-96 mx-auto">
-                        <div className="absolute inset-0 rounded-full border-2 border-[#2F4F2F] transform rotate-45" />
-                        <img
-                            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hero-cfBFTXD7FM0K8ru5ikeZ00rxWS52lJ.png"
-                            alt="Profile"
-                            className="rounded-full w-full h-full object-cover"
-                        />
-                    </div>
+                  <div className="relative w-64 h-64 md:w-96 md:h-96 mx-auto">
+                    <div className="absolute inset-0 rounded-full border-2 border-[#2F4F2F] transform rotate-45"/>
+                    <img
+                      src="/hero-image.png"
+                      alt="Profile"
+                      className="rounded-full w-full h-full object-cover"
+                    />
+                  </div>
                 </div>
             </div>
         </section>
     );
 }
+
