@@ -1,0 +1,61 @@
+{
+  "basics": {
+    "name": "Jane Doe",
+    "headline": "Software Engineer at Acme",
+    "location": {
+      "city": "SFO",
+      "state": "California",
+      "country": "United States"
+    },
+    "contact": {
+      "email": null,
+      "linkedInUrl": "https://www.linkedin.com/",
+      "socialProfiles": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/"
+        }
+      ]
+    },
+    "summary": null
+  },
+  "education": [
+    {
+      "institution": "University of Acme",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science (B.S.)"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Acme.inc",
+      "totalDuration": "4 months",
+      "positions": [
+        {
+          "title": "Software Engineer Intern",
+          "startDate": "2024-05-01T00:00:00Z",
+          "endDate": "2024-08-15T00:00:00Z",
+          "location": null,
+          "team": null,
+          "description": "I returned to working with the coolest team, part of the very cool group, which focuses on super cool technology. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed consequat odio. Morbi mauris elit, maximus sit amet rhoncus id, ultrices non diam. Cras scelerisque, lorem eu varius vulputate, nunc lorem euismod lorem, non congue neque elit in mi. Vestibulum scelerisque lobortis massa, eget lobortis est finibus at.",
+          "technologies": null
+        },
+        {
+          "title": "Software Engineer Intern",
+          "startDate": "2023-05-01T00:00:00Z",
+          "endDate": "2023-08-15T00:00:00Z",
+          "location": null,
+          "team": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed consequat odio. Morbi mauris elit, maximus sit amet rhoncus id, ultrices non diam. Cras scelerisque, lorem eu varius vulputate, nunc lorem euismod lorem, non congue neque elit in mi. Vestibulum scelerisque lobortis massa, eget lobortis est finibus at.",
+          "technologies": null
+        }
+      ],
+      "position": "Software Engineer Intern",
+      "startDate": "2024-05-01T00:00:00Z",
+      "endDate": "2024-08-15T00:00:00Z",
+      "location": null,
+      "duration": "3 months",
+      "description": null
+    }
+  ]
+}

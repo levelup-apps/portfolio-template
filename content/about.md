@@ -2,10 +2,9 @@
 
 ## Education
 
-### University of Illinois Urbana Champaign
-BS+MCS in Computer Science | GPA: 3.79
+### University of Acme
+BS in Computer Science 
 
-- Illinois Engineering Outstanding Scholarship recipient
-- Accelerated completion of BS by '24
-- Accepted into MCS program, class of '25
+- Some fancy scholarship recipient
+- CS101 Course Assistant
 

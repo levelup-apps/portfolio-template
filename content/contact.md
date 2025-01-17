@@ -1,7 +1,7 @@
 # Contact
 
-- Email: hi.liza.george@gmail.com
-- Phone: (669) 204 2873
-- GitHub: lizageorge
-- LinkedIn: george-liza
+- Email: jane.doe@gmail.com
+- Phone: (111) 111 1111
+- GitHub: janedoe
+- LinkedIn: doe-jane
 
